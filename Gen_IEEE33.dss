@@ -1,0 +1,6 @@
+// Photovoltaic Generator
+ 
+New Generator.GenPV18 Phases=3 Bus1=18 kV=12.66 kW=838.91 kvar=0 model=7  
+New Generator.GenPV22 Phases=3 Bus1=22 kV=12.66 kW=1000 kvar=0 model=7 
+New Generator.GenPV25 Phases=3 Bus1=25 kV=12.66 kW=1000 kvar=0 model=7  
+New Generator.GenPV33 Phases=3 Bus1=33 kV=12.66 kW=1000 kvar=0 model=7
